@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Mateus 👋 </h1>
+<h1 align="center">Hey there! I'm Mateus 🖖 </h1>
 <h3 align="center">🚀 Software Engineer at Gamer's Club | Rocketseat Student 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
