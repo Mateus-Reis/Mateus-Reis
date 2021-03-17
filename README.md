@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Mateus-Reis/Mateus-Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hey there! I'm Mateus 👋 </h1>
 <h3 align="center">🚀 Software Engineer at Gamer's Club | Rocketseat Student 🚀</h3>
 <div>
@@ -31,5 +26,3 @@
 
 
 
-
--->
