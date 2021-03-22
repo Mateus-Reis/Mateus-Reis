@@ -7,7 +7,7 @@
   
   - 🎓 &nbsp; Studying Software Engineering.
   - 💼 &nbsp; I’m currently working as Software Engineer at Gamer's Club.
-  - 🌱 &nbsp; Learning more about Frontend Developement and Backend Architectures.
+  - 📚 &nbsp; Learning more about Frontend Developement and Backend Architectures.
   - ✍️ &nbsp; Knowledge Seeker and Gaming/Sitcom as hobbies.  
 </div> 
 </div>
