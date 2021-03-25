@@ -4,7 +4,7 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"/>
 <div align="left"> 
   <h3> 👨‍💻 About Me </h3>
-  
+  - 💼 &nbsp; I’m currently working as Software Engineer at Gamer's Club.
   - 🎓 &nbsp; Studying Software Engineering.
   - 📚 &nbsp; Learning more about Frontend Developement and Backend Architectures.
   - ✍️ &nbsp; Knowledge Seeker and Gaming/Sitcom as hobbies.  
