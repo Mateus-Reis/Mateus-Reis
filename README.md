@@ -21,7 +21,7 @@
 
 <h4> 🤝🏻 &nbsp;Connect with Me </h4>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mateusreisdev/) | 📫 mateus.ficagna@hotmail.com
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mateusreisdev/) | 📫 mateusreis.d3v@gmail.com
 
 
 
