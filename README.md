@@ -7,8 +7,8 @@
   
   - 💼 &nbsp; I’m currently working as Software Engineer at Gamer's Club.
   - 🎓 &nbsp; Studying Software Engineering.
-  - 📚 &nbsp; Learning more about Frontend Developement and Cypress.
-  - ✍️ &nbsp; Knowledge Seeker and Gaming/Sitcom as hobbies.  
+  - 📚 &nbsp; Learning more about Frontend Developement with ReactJs.
+  - ✍️ &nbsp; Knowledge Seeker.  
 </div> 
 </div>
 
