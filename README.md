@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> 👨‍💻 About Me </h3>
   
-  - 💼 &nbsp; I’m currently working as Software Engineer at Gamer's Club.
+  - 💼 &nbsp; I’m currently working as Software Engineer at Flex.
   - 🎓 &nbsp; Studying Software Engineering.
   - 📚 &nbsp; Learning more about Frontend Developement with ReactJs.
   - ✍️ &nbsp; Knowledge Seeker.  
