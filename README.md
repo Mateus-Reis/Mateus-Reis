@@ -8,7 +8,7 @@
 - 💼 Full-Stack Developer at **Lumenalta UK**
 - ⚡ **Stack**: JavaScript, TypeScript, Node.js, Fastify, AWS, PostgreSQL, Docker, React, Next.js, Vite, Remix
 - 🎯 Building scalable solutions and contributing to open source projects
-- 🔧 Open Source Contributor - [VS Code](https://github.com/microsoft/vscode)
+- 🔧 Open Source Contributor
 </div>
 </div>
 
